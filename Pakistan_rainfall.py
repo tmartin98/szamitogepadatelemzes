@@ -100,6 +100,7 @@ for key, value in result[4].items():
 
 # Látható, hogy a p változó értéke kisebb, mint 0.05, ebből kifolyólag az idősorunk stacionárius.
 #%% Korrelogramm alkalmazása
+#Korrelogrammnál a függvény lecsengését kell megfigyelni, illetve, hogy vannak e egyedi értékei.
 
 plot_acf(df['Rainfall'].values.squeeze(),lags=25)
 plot_pacf(df['Rainfall'].values.squeeze(),lags=25)
