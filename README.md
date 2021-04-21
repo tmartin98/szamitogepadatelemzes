@@ -1,4 +1,8 @@
-Az elemzés a pakisztáni esőzésekről szól 1901-től 2016-ig.
+#Pakisztáni esőzések#
+
+Csapatnév: M&M
+
+Téma:A pakisztáni esőzések elemzése 1901-től 2016-ig.
 
 A csapat tagjai:
 
